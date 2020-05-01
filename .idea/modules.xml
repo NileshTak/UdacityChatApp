@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CapstoneProject-Udacity.iml" filepath="$PROJECT_DIR$/CapstoneProject-Udacity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CapstoneProject-Udacity-master.iml" filepath="$PROJECT_DIR$/CapstoneProject-Udacity-master.iml" group="CapstoneProject-Udacity-master" />
+      <module fileurl="file://$PROJECT_DIR$/app/CapstoneProject-Udacity-master-app.iml" filepath="$PROJECT_DIR$/app/CapstoneProject-Udacity-master-app.iml" group="CapstoneProject-Udacity-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/CapstoneProjectUdacity.iml" filepath="$PROJECT_DIR$/CapstoneProjectUdacity.iml" group="CapstoneProjectUdacity" />
+      <module fileurl="file://$PROJECT_DIR$/app/CapstoneProjectUdacity-app.iml" filepath="$PROJECT_DIR$/app/CapstoneProjectUdacity-app.iml" group="CapstoneProjectUdacity/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

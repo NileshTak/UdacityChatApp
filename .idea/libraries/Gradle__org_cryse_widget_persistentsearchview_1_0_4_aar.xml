@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: org.cryse.widget:persistentsearchview:1.0.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/455168d8bd65bcfad59a12635099ef7a/persistentsearchview-1.0.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/455168d8bd65bcfad59a12635099ef7a/persistentsearchview-1.0.4/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.cryse.widget/persistentsearchview/1.0.4/2aec68c975ff3fca9e285911b56a1a0f32159f56/persistentsearchview-1.0.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.cryse.widget/persistentsearchview/1.0.4/95210c1d10e2c3ed5e6b15fa2fba6767e9c81c56/persistentsearchview-1.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

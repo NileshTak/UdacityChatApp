@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_chat"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f8f8f8"
+    android:layoutDirection="locale"
+    android:orientation="vertical"
+    tools:context=".ui.Activities.Chat">
+
+    <ListView
+        android:id="@+id/chatList"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="9"
+        android:divider="@color/white"
+        android:stackFromBottom="true"
+        android:transcriptMode="alwaysScroll" />
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="16dp"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/message"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:layout_weight="9"
+            android:background="@drawable/edit_text_background_send_message"
+            android:focusableInTouchMode="true"
+            android:hint="@string/enter"
+            android:paddingStart="16dp"
+            android:textColor="#000000"
+            android:textSize="15sp"/>
+
+        <android.support.design.widget.FloatingActionButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:onClick="sendMessage"
+            android:src="@drawable/ic_send_message_button"
+            android:text="@string/send"
+            app:backgroundTint="@color/colorPrimaryLight"
+            app:fabSize="mini"
+            android:contentDescription="@string/send_message"
+            app:rippleColor="@color/colorPrimaryDark" />
+
+    </LinearLayout>
+
+
+</LinearLayout>

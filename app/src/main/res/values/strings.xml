@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">LetsTalk</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="email">Email Id</string>
+    <string name="passowrd">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="show_pwd">Show Password</string>
+    <string name="hide_pwd">Hide Password</string>
+    <string name="forgot">Forgot password?</string>
+    <string name="closebutton">Close Button for Activity</string>
+    <string name="newUser1">Not a Member yet?</string>
+    <string name="newUser2">Sign Up here.</string>
+
+    <string name="fullName">Full Name</string>
+    <string name="mobileNumber">Mobile Number</string>
+    <string name="location">Location</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="terms_conditions">By clicking SignUp you agree all the Terms and Conditions.</string>
+    <string name="signUp">SIGN UP</string>
+    <string name="already_user1">Already have Account ?</string>
+    <string name="already_user2">Login here.</string>
+    <string name="registered_email">Please enter your Registered Email </string>
+    <string name="submit">SUBMIT</string>
+    <string name="back">BACK</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+
+    <string name="forgot_email_wrong">This email not registered yet !</string>
+    <string name="forgot_email_right">Please check you email for new password !</string>
+
+
+    <string name="app_id">223180414814693</string>
+    <string name="title_activity_chat_list">ChatList</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+
+
+    <string name="action_logout">Logout</string>
+    <string name="profile">Profile</string>
+
+
+    <string name="hello_blank_fragment"></string>
+
+
+    <string name="owner">Nil</string>
+    <string name="phone">Phone</string>
+    <string name="email_about">Email</string>
+    <string name="facebook">Facebook</string>
+    <string name="add_developer">You can add me just by Click Here ;)</string>
+    <string name="about">About</string>
+    <string name="chat">Chat</string>
+    <string name="requests">Requests</string>
+    <string name="explore">Find</string>
+    <string name="error">You ma have internet connection problem</string>
+    <string name="no_requests">You don\'t have any requests yet , go and add your friends now !</string>
+    <string name="no_users">There is No user registered yet ! :(</string>
+    <string name="search_empty">Unfortunately there was no match found for</string>
+    <string name="processing">Processing</string>
+    <string name="igonre">Ignore Request from</string>
+    <string name="deleted">Request has been deleted successfully</string>
+    <string name="some_error">Some Error happen</string>
+    <string name="cancle">cancel</string>
+    <string name="frineds">friends</string>
+    <string name="add">add</string>
+    <string name="sent">Request has been sent successfully</string>
+    <string name="empty">please fill this</string>
+    <string name="constaint1">at least 8 character</string>
+    <string name="constaint2">Not valid mail</string>
+    <string name="constaint3">Password not match</string>
+    <string name="photo">Choose photo to continue</string>
+    <string name="error2">This account maybe used or have network error</string>
+    <string name="photo2">Please Choose Image</string>
+    <string name="photo3">Image Upload error please try again later</string>
+    <string name="not_provided">Not provided</string>
+    <string name="photo_error">Image upload failed</string>
+    <string name="photo_done">Image upload failed</string>
+    <string name="get_data">getting data from server</string>
+    <string name="not_recorded">this account not match any record , or problem with your internet !</string>
+    <string name="auth_fail">Authentication failed</string>
+    <string name="send">Send</string>
+    <string name="enter">Enter a message</string>
+    <string name="intro">Login And connect to your friends now !</string>
+    <string name="or">Or</string>
+    <string name="google">Log in with Google</string>
+    <string name="facebook_login">Log in with Facebook</string>
+    <string name="twitter">Log in with Twitter</string>
+    <string name="example">example@example.com</string>
+    <string name="message">Simple Message</string>
+    <string name="date">12:00 AM</string>
+    <string name="confirm">Confirm</string>
+    <string name="ignore">Ignore</string>
+    <string name="widget_title">Friends - Click to chat !</string>
+    <string name="user_image">Profile Image</string>
+    <string name="choose">Choose image to upload</string>
+    <string name="send_message">Sending message</string>
+    <string name="you_and">You and</string>
+    <string name="friends">are friends now !</string>
+    <string name="problem">There is a problem with login please try again !</string>
+</resources>
